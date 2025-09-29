@@ -9,7 +9,7 @@ body {
 header {
   background:url("images.jpg") ;
   background-size: cover;
-  color:white;
+  color:#000000;
   padding:80px 20px;
   text-align: center;
 }
@@ -64,5 +64,6 @@ footer {
   color: #fff;
   margin-top: 20px;
 }
+
 
 
